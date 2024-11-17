@@ -8,7 +8,7 @@
 ; PROGRAM NAME		: COUNT THE NUMBER OF VOWELS
 ;=============================================================
 ; DESCRIPTION		: USING MEMORY MODEL
-; AUTHOR      		: ANANTHAKRISHNAN K
+; AUTHOR      		: LIYAN C K M
 ; SEGMENT DEFINITION	: [IMPLICIT]   
 ;=============================================================	(1)
 
