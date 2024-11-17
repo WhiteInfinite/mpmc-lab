@@ -8,7 +8,7 @@
 ; PROGRAM NAME		:  CHECK WHETHER A SUBSTRING IS PRESENT IN A GIVEN STRING
 ;=============================================================
 ; DESCRIPTION		: USING MEMORY MODEL
-; AUTHOR      		: ANANTHAKRISHNAN K
+; AUTHOR      		: LIYAN C K M
 ; SEGMENT DEFINITION	: [IMPLICIT]   
 ;=============================================================	(1)
 
