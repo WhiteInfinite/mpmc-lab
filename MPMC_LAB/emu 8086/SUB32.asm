@@ -8,7 +8,7 @@
 ; PROGRAM NAME		: SUBTRACTION OF TWO 32 BIT NUMBERS
 ;=============================================================
 ; DESCRIPTION		: USING MEMORY MODEL
-; AUTHOR      		: ANANTHAKRISHNAN K
+; AUTHOR      		: LIYAN C K M
 ; SEGMENT DEFINITION	: [IMPLICIT]   
 ;=============================================================	(1)
 
